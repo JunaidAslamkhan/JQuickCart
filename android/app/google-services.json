@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325304306180",
+    "project_id": "up-store-d1968",
+    "storage_bucket": "up-store-d1968.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325304306180:android:3965845894cc7eaed84351",
+        "android_client_info": {
+          "package_name": "com.upstore.up_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChcKKC8Edef5QgBIec0iUpmmYpc7CwcPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
