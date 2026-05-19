@@ -2,6 +2,18 @@
 
 JQuickCart is a Flutter and Dart based e-commerce mobile app connected with Firebase. It includes product browsing, wishlist, cart management, user authentication, and a smooth shopping experience.
 
+## Download APK
+
+<p align="center">
+  <a href="https://github.com/JunaidAslamkhan/JQuickCart/releases/download/v1.0.0/jquickcart.apk">
+    <img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android" alt="Download APK">
+  </a>
+</p>
+
+<p align="center">
+  Click the button above to download and install the latest Android APK of JQuickCart.
+</p>
+
 ## App Screenshots
 
 <p align="center">
