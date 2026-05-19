@@ -2,6 +2,43 @@
 
 JQuickCart is a Flutter and Dart based e-commerce mobile app connected with Firebase. It includes product browsing, wishlist, cart management, user authentication, and a smooth shopping experience.
 
+## App Screenshots
+
+<p align="center">
+  <img src="assets/images/image1.jpeg" width="220">
+  <img src="assets/images/image2.jpeg" width="220">
+  <img src="assets/images/image3.jpeg" width="220">
+</p>
+
+<p align="center">
+  <img src="assets/images/image4.jpeg" width="220">
+  <img src="assets/images/image5.jpeg" width="220">
+  <img src="assets/images/image6.jpeg" width="220">
+</p>
+
+<p align="center">
+  <img src="assets/images/image7.jpeg" width="220">
+  <img src="assets/images/image8.jpeg" width="220">
+  <img src="assets/images/image9.jpeg" width="220">
+</p>
+
+<p align="center">
+  <img src="assets/images/image10.jpeg" width="220">
+  <img src="assets/images/image11.jpeg" width="220">
+  <img src="assets/images/image12.jpeg" width="220">
+</p>
+
+<p align="center">
+  <img src="assets/images/image13.jpeg" width="220">
+  <img src="assets/images/image15.jpeg" width="220">
+  <img src="assets/images/image16.jpeg" width="220">
+</p>
+
+<p align="center">
+  <img src="assets/images/image17.jpeg" width="220">
+  <img src="assets/images/image18.jpeg" width="220">
+</p>
+
 ## Features
 
 - Flutter and Dart based mobile app
