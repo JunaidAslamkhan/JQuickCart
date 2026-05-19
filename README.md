@@ -1,17 +1,27 @@
-# up_store
+# JQuickCart - Flutter Firebase E-Commerce App
 
-A new Flutter project.
+JQuickCart is a Flutter and Dart based e-commerce mobile app connected with Firebase. It includes product browsing, wishlist, cart management, user authentication, and a smooth shopping experience.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Flutter and Dart based mobile app
+- Firebase connected backend
+- User authentication
+- Product browsing
+- Wishlist feature
+- Cart management
+- Checkout flow
+- Clean and modern UI
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+| Technology | Purpose                            |
+| ---------- | ---------------------------------- |
+| Flutter    | Mobile app development             |
+| Dart       | Programming language               |
+| Firebase   | Authentication and backend support |
+| GitHub     | Code hosting and version control   |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Status
+
+This project is currently under development.
